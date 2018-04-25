@@ -51,3 +51,4 @@ As with other labs, we have provided a set of tests all of which must be passing
 - Code Refatoring (Wikipedia): https://en.wikipedia.org/wiki/Code_refactoring
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/react-passing-props-lab'>Passing Props Lab</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG React Passing Props Lab</p>
